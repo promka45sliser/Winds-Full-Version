@@ -240,3 +240,6 @@ This repository serves as the official landing page for WinDS Pro. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WinDS Pro today!**
+
+---
+**Last updated:** 2026-09-10 23:49:02 UTC
